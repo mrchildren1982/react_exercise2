@@ -1,2 +1,2 @@
-# react_exercise2
+# react_exercise
 Created with CodeSandbox
